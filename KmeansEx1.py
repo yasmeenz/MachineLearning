@@ -14,7 +14,7 @@ from sklearn.cluster import KMeans
 df=pd.read_csv('data_1024.csv',sep='\t')
 print(df.head())
 print(df.dtypes)
-print(df.describe())
+
 
 
 # In[38]:
